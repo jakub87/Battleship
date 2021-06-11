@@ -1,0 +1,14 @@
+battleship/model/ShipType.java
+ battleship.model.ShipType
+battleship/repository/BattleShipsRepository.java
+ battleship.repository.BattleShipsRepository
+battleship/model/Ships.java
+ battleship.model.Ships
+battleship/Main.java
+ battleship.Main
+battleship/service/TakingShotService.java
+ battleship.service.TakingShotService
+battleship/service/BattleShipService.java
+ battleship.service.BattleShipService
+battleship/BattleShipApplication.java
+ battleship.BattleShipApplication
